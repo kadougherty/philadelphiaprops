@@ -25,5 +25,6 @@ All analysis was written and saved to Jupyter notebooks using Jupyter lab. These
 
 4. evaluate.ipynb: looked at which features were most important to predict market value for final model; investigated where model fails
 
+![map 001](https://user-images.githubusercontent.com/7513318/198849826-b642a9a3-660f-47bd-8054-8842c2d4e1e2.png)
 
 
